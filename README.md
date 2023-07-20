@@ -28,7 +28,7 @@
 
 ## Setup
 
-clone the repo and start using the stop watch.
+clone the repo and start using the image-gallery.
 
 ## Code Examples
 
